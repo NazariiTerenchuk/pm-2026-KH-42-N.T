@@ -1,1 +1,7 @@
 stakeholder_id,name_or_role,organization,interest,influence,attitude,strategy,owner
+ST-01,"Керівник навчальної частини","Навчальна частина академії",high,high,supporter,manage_closely,PM
+ST-02,"Диспетчер вивантаження розкладу","Навчальна частина академії",high,high,neutral,manage_closely,BA
+ST-03,"Голова студентського самоврядування","Студентське самоврядування",high,low,supporter,keep_informed,BA
+ST-04,"Начальник служби облікових записів та ІТ","Служба ІТ та акаунтів академії",low,high,blocker,keep_satisfied,PM
+ST-05,"Старости академічних груп","Студентська спільнота",high,low,supporter,keep_informed,QA
+ST-06,"Представник викладацького складу кафедр","Викладацькі кафедри",low,low,neutral,monitor,BA
