@@ -15,7 +15,7 @@
 | Тема проєкту | Мобільний застосунок розкладу академії зі сповіщеннями про зміни |
 | Варіант вхідних умов | V07 |
 | Трекер | GitHub Projects |
-| Дошка | https://github.com/users/NazariiTerenchuk/projects/1 |
+| Дошка | https://github.com/users/NazariiTerenchuk/projects/3 |
 | Валюта проєкту | |
 | Contingency, % | |
 

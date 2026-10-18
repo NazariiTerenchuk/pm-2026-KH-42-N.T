@@ -5,7 +5,7 @@
 | Поле | Значення |
 | --- | --- |
 | Студент і підгрупа | Теренчук Назарій Ігорович, підгрупа КН-42 |
-| Посилання на дошку | https://github.com/users/NazariiTerenchuk/projects/1 |
+| Посилання на дошку | https://github.com/users/NazariiTerenchuk/projects/3 |
 | Трекер | GitHub Projects |
 | Дати життя дошки | 2026-10-02 — 2026-10-16 |
 
