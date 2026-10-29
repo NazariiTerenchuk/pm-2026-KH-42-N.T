@@ -6,3 +6,8 @@ ST-04,"Начальник служби облікових записів та І
 ST-05,"Старости академічних груп","Студентська спільнота",high,low,supporter,keep_informed,QA
 ST-06,"Представник викладацького складу кафедр","Викладацькі кафедри",low,low,neutral,monitor,BA
 ST-07,Служба інформаційної безпеки академії,Служба інформаційної безпеки академії,high,high,neutral,manage_closely,PM
+ST-08,"PM (я)","Команда проєкту",high,high,supporter,manage_closely,PM
+ST-09,"BA (бізнес-аналітик)","Команда проєкту",high,low,supporter,keep_informed,PM
+ST-10,"Dev (розробник)","Команда проєкту",high,high,supporter,manage_closely,PM
+ST-11,"QA (інженер з якості)","Команда проєкту",high,low,supporter,keep_informed,PM
+ST-12,"Спонсор проєкту (керівництво академії)","Керівництво академії",high,high,supporter,manage_closely,PM
