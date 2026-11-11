@@ -1,1 +1,8 @@
 run_id,date,tool,goal,artifact,has_input,iterations,result,note
+P-01,2026-11-11,Claude Sonnet 5.5,"Розібрати нотатки зустрічі на задачі, рішення і відкриті питання",lr17_ai_assistant/tasks.csv,yes,1,used_with_edits,"Пункти з тегами пішли в tasks.csv, вигадані відповідальні й сьогоднішня дата відкинуті"
+P-02,2026-11-11,Claude Sonnet 5.5,"Той самий розбір із забороною вигадувати відповідальних і дати",lr17_ai_assistant/tasks.csv,yes,2,used_with_edits,"Взято пункти і питання «хто», але зниклий N-12 повернено, N-06 і N-11 дописані"
+P-03,2026-11-11,Claude Sonnet 5.5,"Premortem: десять причин провалу за нотатками",lr17_ai_assistant/README.md,yes,1,used_with_edits,"Дві причини відкинуто як упевнені без підстав, решту використано в розділі 3"
+P-04,2026-10-24,Claude Code (Sonnet 5.5),"Чернетка реєстру ризиків з тригерами і планами",lr11_risks_quality/risks.csv,yes,1,used_with_edits,"Взято структуру і тексти, потім змінив оцінки і пов'язав ризики з історіями"
+P-05,2026-10-30,Claude Code (Sonnet 5.5),"Матриця RACI і план комунікацій за картою стейкхолдерів",lr12_communication/raci.csv,yes,1,used_with_edits,"Виправив ролі, спірні призначення A і описки"
+P-06,2026-11-02,Claude Code (Sonnet 5.5),"Статус-звіт за числами дашборда і прогнозу",lr15_status_report/README.md,yes,2,used_with_edits,"Після погодження дати переписано статус і прохання"
+P-07,2026-11-11,Claude Code (Sonnet 5.5),"Кошторис, резерви і порівняння контрактів",lr16_budget/budget.csv,yes,1,used_with_edits,"Взято арифметику, обґрунтування ризиків і премії уточнено мною"
