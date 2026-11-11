@@ -16,8 +16,8 @@
 | Варіант вхідних умов | V07 |
 | Трекер | GitHub Projects |
 | Дошка | https://github.com/users/NazariiTerenchuk/projects/3 (Kanban, робочі картки ЛР4); дошка спринтів: https://github.com/users/NazariiTerenchuk/projects/4 |
-| Валюта проєкту | |
-| Contingency, % | |
+| Валюта проєкту | грн |
+| Contingency, % | 9,4 |
 
 ## Як влаштований репозиторій
 

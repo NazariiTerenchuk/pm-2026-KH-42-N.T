@@ -1,1 +1,5 @@
 role,fte,hours,rate,source,note
+PM,0.25,100,460,https://dou.ua/lenta/articles/salary-report-managers-summer-2026/,"Медіана Project Manager 2500 USD проти 3500 у розробників, тобто 0,71"
+BA,0.5,200,460,https://dou.ua/lenta/articles/salary-report-managers-summer-2026/,"Медіани BA для всіх рівнів у звітах DOU немає тому взято на рівні PM"
+Dev,1.0,400,640,https://dou.ua/lenta/articles/salary-report-devs-summer-2026/,"Медіана розробників 3500 USD це база співвідношення. Години вузлів 1.3.5-1.3.7 з події курсу лягли всередину цих 400 годин"
+QA,0.25,100,495,https://dou.ua/lenta/articles/salary-report-qa-summer-2026/,"Медіана General QA 2700 USD проти 3500 у розробників, тобто 0,77"
